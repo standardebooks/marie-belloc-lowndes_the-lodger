@@ -40,15 +40,16 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">One of the first novelizations based on the Whitechapel murders of 1888, this mystery of psychological suspense follows the lives of a maid and butler who take in a mysterious, eccentric gentleman lodger.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;One of the first novelizations about Jack the Ripper, &lt;i&gt;The Lodger&lt;/i&gt; is a mystery drama, following the lives of &lt;abbr&gt;Mr.&lt;/abbr&gt; and &lt;abbr&gt;Mrs.&lt;/abbr&gt; Bunting, a maid and butler. An eccentric lodger, &lt;abbr&gt;Mr.&lt;/abbr&gt; Sleuth, arrives at their lodging-house just as a wave of horrific murders begins to sweep London. The Buntings become engrossed in the newspaper sensationalism as well the more detailed accounts of their young friend, a Scotland Yard detective.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/marie-belloc-lowndes"&gt;Marie Belloc Lowndes&lt;/a&gt; first wrote &lt;i&gt;The Lodger&lt;/i&gt; as a short story published in &lt;i&gt;McClure’s Magazine&lt;/i&gt;, and then published the full novel, first serialized in the &lt;i&gt;Daily Telegraph&lt;/i&gt;. It sold very well, and has been adapted in other media multiple times, notably as one of Alfred Hitchcock’s first movies.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2014</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Lodger/vmw6AQAAMAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Lodger</meta>
