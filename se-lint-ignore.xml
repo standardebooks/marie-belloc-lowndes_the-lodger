@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-14.xhtml">
+		<ignore>
+			<code>t-007</code>
+			<reason>"Lloyd’s" is a short name of "Lloyd's Weekly Newspaper."</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
