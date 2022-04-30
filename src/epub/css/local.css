@@ -56,10 +56,12 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+/* End Letters */
 
-/* Custom CSS */
-blockquote.newspaper header p{
+/* Headers not in TOC */
+header{
 	font-variant: small-caps;
+	margin: 1em;
 	text-align: center;
-	text-indent: 0;
 }
+/* End Headers not in TOC */
