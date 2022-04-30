@@ -40,7 +40,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">One of the first novelizations based on the Whitechapel murders of 1888, this mystery of psychological suspense follows the lives of a maid and butler who take in a mysterious, eccentric gentleman lodger.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
