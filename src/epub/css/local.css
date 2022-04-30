@@ -58,10 +58,14 @@ footer{
 }
 /* End Letters */
 
+.headline{
+	font-variant: small-caps;
+	text-align: center;
+}
+
 /* Headers not in TOC */
 header{
 	font-variant: small-caps;
 	margin: 1em;
-	text-align: center;
 }
 /* End Headers not in TOC */

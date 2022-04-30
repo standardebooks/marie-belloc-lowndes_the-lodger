@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-6.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-11.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-14.xhtml">
 		<ignore>
 			<code>t-007</code>
