@@ -42,7 +42,7 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A maid and butler take in a mysterious, eccentric gentleman lodger around the time of the Jack the Ripper murders.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
