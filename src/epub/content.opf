@@ -42,6 +42,8 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A maid and butler take in a mysterious, eccentric gentleman lodger around the time of the Jack the Ripper murders.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Lodger&lt;/i&gt; is the first known novelization of the Jack the Ripper story. It follows the lives of &lt;abbr&gt;Mr.&lt;/abbr&gt; and &lt;abbr&gt;Mrs.&lt;/abbr&gt; Bunting, a maid and butler. An eccentric lodger, &lt;abbr&gt;Mr.&lt;/abbr&gt; Sleuth, arrives at their lodging-house just as a wave of horrific murders begins to sweep London. The Buntings become engrossed in the newspaper sensationalism as well the detailed accounts of their young friend, a Scotland Yard detective.&lt;/p&gt;
