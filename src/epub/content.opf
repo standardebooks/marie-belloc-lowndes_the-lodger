@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2014</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Lodger/vmw6AQAAMAAJ</dc:source>
-		<meta property="se:word-count">80305</meta>
+		<meta property="se:word-count">80309</meta>
 		<meta property="se:reading-ease.flesch">82.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Lodger_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/marie-belloc-lowndes_the-lodger</meta>
