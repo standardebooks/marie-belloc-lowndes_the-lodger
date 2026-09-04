@@ -31,9 +31,9 @@
 		<dc:title id="title">The Lodger</dc:title>
 		<meta property="file-as" refines="#title">Lodger, The</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
-		<dc:subject id="subject-2">Serial murders -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Whitechapel (London, England) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Jack, the Ripper -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Serial murders--Fiction</dc:subject>
+		<dc:subject id="subject-3">Whitechapel (London, England)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Jack, the Ripper--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
